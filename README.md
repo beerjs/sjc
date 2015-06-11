@@ -23,6 +23,7 @@ Registre uma issue para sugestões ou problemas, envie um PR para atualizações
 ## Organizadores
 
 - Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
+- Felipe Sobral ([@fbsobral](https://github.com/fbsobral))
 
 ## Futuros encontros Beer.js
 
