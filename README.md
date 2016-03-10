@@ -23,11 +23,12 @@ Registre uma issue para sugestões ou problemas, envie um PR para atualizações
 ## Organizadores
 
 - Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
-- Felipe Sobral ([@fbsobral](https://github.com/fbsobral))
+- Henrique Liberato ([@hliberato](https://github.com/hliberato))
+- Rodrigo Agostinho ([@rodrigoagostin](https://github.com/rodrigoagostin))
 
 ## Futuros encontros Beer.js
 
 
 ## Dúvidas?
 
-Me envie um tweet [aqui](https://twitter.com/BeerJSSJC) ou em meu Twitter pessoal [aqui](https://twitter.com/_danilovaz)
+Me envie um tweet [aqui](https://twitter.com/BeerJSSJC)
