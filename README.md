@@ -20,6 +20,10 @@ Entre em  nosso grupo de Meetup [aqui](http://www.meetup.com/Beer-js-SJC/) ou cl
 
 Registre uma issue para sugestões ou problemas, envie um PR para atualizações deste wiki ou envie um tweet [aqui](https://twitter.com/BeerJSSJC)
 
+## Site (em construção)
+
+http://beerjs.github.io/sjc/
+
 ## Organizadores
 
 - Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
