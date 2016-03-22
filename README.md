@@ -1,5 +1,7 @@
 # Beer.js SJC
 
+[![Join the chat at https://gitter.im/beerjs/sjc](https://badges.gitter.im/beerjs/sjc.svg)](https://gitter.im/beerjs/sjc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Beer.js SJC é um Meetup (grupo de encontro) para JavaScripters de São José dos Campos (a galera do Vale do Paraíba e visitantes são bem-vindos!) para se reunir para atividades que giram em torno de duas coisas: Cerveja e JavaScript!
 
 Nesse repositório vamos discutir datas e locais para acontecerem os Meetups e demais assuntos que possam contribuir para essa nossa comunidade. Todos os Meetups após definidos serão cadastrados [aqui](http://www.meetup.com/Beer-js-SJC/)
