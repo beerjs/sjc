@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/beerjs/sjc.png?label=ready&title=Ready)](https://waffle.io/beerjs/sjc)
 # Beer.js SJC
 
 [![Join the chat at https://gitter.im/beerjs/sjc](https://badges.gitter.im/beerjs/sjc.svg)](https://gitter.im/beerjs/sjc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
