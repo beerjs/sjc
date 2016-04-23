@@ -117,8 +117,8 @@ venueFeatures: ["Bar com amplo espaço", "Temática geek dos anos 80", "Boa loca
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterHashTag: "beerjssjc"
+twitterFeed: "#"
 
 # Partners Block
 organizersTitle: "Organizers"
