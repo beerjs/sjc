@@ -69,7 +69,7 @@ heroButtons:
 aboutTitle: "Sobre o Beer.js"
 aboutBlock:
  - {title: "JavaScript", image: "javascript.jpg", text: "Hoje, o JavaScript está presente desde o seu navegador até a sua geladeira utilizando os conceitos da IoT. A linguagem mais popular e definitivamente a mais utilizada, o JavaScript tem possibilitado avanços incríveis na maneira que construímos e consumimos tecnologia." }
- - {title: "Cerveja", image: "cerveja.jpg", text: "Engana-se quem pensa que só de café vive um desenvolvedor. O café é aquele amigo que te impulsiona a focar no job. Mas quando você terina o job, é com a cerveja que você vai comemorar. Sejam elas: Lager, Ale, Nacionais ou Internacionais. O importante é que esteja sempre gelada." }
+ - {title: "Cerveja", image: "cerveja.jpg", text: "Engana-se quem pensa que só de café vive um desenvolvedor. O café é aquele amigo que te impulsiona a focar no job. Mas quando você termina o job, é com a cerveja que você vai comemorar. Sejam elas: Lager, Ale, Nacionais ou Internacionais. O importante é que esteja sempre gelada." }
  - {title: "Networking", image: "networking.jpg", text: "Pensamos então: por que não unir o JavaScript com Cervejas? Eis que surge o Beer.JS com o simples propósito de juntar os amigos desenvolvedores em algum lugar que seja possível beber cerveja e conversar sobre JavaScript." }
 
 # Statistic Block
@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas notícias do blog"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
