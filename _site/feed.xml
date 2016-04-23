@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Beer.js - São José dos Campos/SP</title>
+    <title>BeerJS - São José dos Campos/SP</title>
     <description>Cerveja e JavaScript - São José dos Campos e Região</description>
     <link>http://beerjs.github.io/sjc//sjc/</link>
     <atom:link href="http://beerjs.github.io/sjc//sjc/feed.xml" rel="self" type="application/rss+xml" />

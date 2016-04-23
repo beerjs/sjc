@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Beer.js - São José dos Campos/SP"
+title: "BeerJS - São José dos Campos/SP"
 email: ""
 description: "Cerveja e JavaScript - São José dos Campos e Região"
 baseurl: "/sjc"
@@ -21,15 +21,15 @@ googleAnalyticsSiteUrl: "github.com/beerjs/sjc"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "Beer.js SJC"
-organizerAlternateName: "Beer.js São José dos Campos"
+organizerName: "BeerJS SJC"
+organizerAlternateName: "BeerJS São José dos Campos"
 organizerDescription: "Cerveja e JavaScript - São José dos Campos e Região"
 organizerEmail: ""
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "github.com/beerjs/sjc"
 
 # Head
-metaKeywords: "evento, beerjs, beer.js, javascript, js, sao jose dos campos, vale do paraiba"
+metaKeywords: "evento, beerjs, BeerJS, javascript, js, sao jose dos campos, vale do paraiba"
 twitterAccount: "@BeerJSSJC"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -57,7 +57,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Beer.js SJC <typeout>"
+heroTitle: "BeerJS SJC <typeout>"
 eventDate: "28 de Maio de 2016"
 typeoutTextValues: '"", "JavaScript", "ES6", "NodeJS", "AngularJS", "React", "Ember.js"'
 typeoutFallback: "JavaScript"
@@ -66,11 +66,11 @@ heroButtons:
  - {permalink: "/#tickets", text: "Adesivos"}
 
 # About Block
-aboutTitle: "Sobre o Beer.js"
+aboutTitle: "Sobre o BeerJS"
 aboutBlock:
  - {title: "JavaScript", image: "javascript.jpg", text: "Hoje, o JavaScript está presente desde o seu navegador até a sua geladeira utilizando os conceitos da IoT. A linguagem mais popular e definitivamente a mais utilizada, o JavaScript tem possibilitado avanços incríveis na maneira que construímos e consumimos tecnologia." }
  - {title: "Cerveja", image: "cerveja.jpg", text: "Engana-se quem pensa que só de café vive um desenvolvedor. O café é aquele amigo que te impulsiona a focar no job. Mas quando você termina o job, é com a cerveja que você vai comemorar. Sejam elas: Lager, Ale, Nacionais ou Internacionais. O importante é que esteja sempre gelada." }
- - {title: "Networking", image: "networking.jpg", text: "Pensamos então: por que não unir o JavaScript com Cervejas? Eis que surge o Beer.JS com o simples propósito de juntar os amigos desenvolvedores em algum lugar que seja possível beber cerveja e conversar sobre JavaScript." }
+ - {title: "Networking", image: "networking.jpg", text: "Pensamos então: por que não unir o JavaScript com Cervejas? Eis que surge o BeerJS com o simples propósito de juntar os amigos desenvolvedores em algum lugar que seja possível beber cerveja e conversar sobre JavaScript." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -175,20 +175,19 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=BeerJSSJC", icon: "twitter"}
+ - {link: "https://www.facebook.com/BeerJS-S%C3%A3o-Jos%C3%A9-dos-Campos-859894877454890/", icon: "facebook"}
+ - {link: "https://github.com/beerjs/sjc", icon: "github"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.meetup.com/pt-BR/Beer-js-SJC/", text: "Meetup BeerJS"}
  -
-  title: "Contacts"
+  title: "Contato"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:danilovaz@hotmail.com.br", text: "beerjs@"}
  -
   title: "FAQ"
   links:

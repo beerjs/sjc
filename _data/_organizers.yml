@@ -1,7 +1,7 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "Beer.js", description: "Cerveja e JavaScript - São José dos Campos e Região", link: "http://beerjs.github.io/sjc/", imageUrl: "gdg-lviv.svg"}
+    - {name: "BeerJS", description: "Cerveja e JavaScript - São José dos Campos e Região", link: "http://beerjs.github.io/sjc/", imageUrl: "gdg-lviv.svg"}
 -
   group: "Co-organizers"
   elements:
