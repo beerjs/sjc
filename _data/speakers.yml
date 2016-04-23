@@ -1,29 +1,38 @@
 -
-  id: 0
+  id: 3
   name: "Danilo"
   surname: "Vaz"
   company: "mLabs"
   title: "Front-end Developer"
+  bio: "Bio."
   thumbnailUrl: DaniloVaz.jpg
+  rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/_danilovaz"}
     - {name: "github", link: "https://github.com/danilovaz"}
     - {name: "site", link: "http://danilovaz.github.io"}
 -
-  id: 1
+  id: 4
   name: "Henrique"
   surname: "Liberato"
   company: "Focusnetworks"
   title: "Web Developer"
+  bio: 'Bio.'
   thumbnailUrl: HenriqueLiberato.png
+  rockstar: true
   social:
     - {name: "github", link: "https://github.com/hliberato"}
 -
-  id: 2
+  id: 5
   name: "Rodrigo"
   surname: "Agostinho"
   company: "Company"
   title: "Web Developer"
+  bio: "Bio."
   thumbnailUrl: RodrigoAgostinho.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social:
     - {name: "github", link: "https://github.com/rodrigoagostin"}
