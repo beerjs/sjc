@@ -1,200 +1,28 @@
-<!doctype html>
-<html itemscope itemtype="http://schema.org/Event">
-<head>
+---
+layout: default
+permalink: /
+---
 
-  <title itemprop="name">Beer.js SJC</title>
+ {% include hero.html %}
 
-  <meta charset="utf-8">
-  <meta name="author" content="Beer.js SJC">
-  <meta name="description" content="Beer.js SJC é um Meetup para JavaScripters de São José dos Campos e todo o Vale do Paraíba ! Encontros que giram em torno de duas coisas: Cerveja e JavaScript!">
-  <meta name="viewport" content="width=device-width">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+ {% include about.html %}
 
-  <!-- FACEBOOK -->
-  <meta property="fb:app_id" content="372862979453673">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="http://127.0.0.1:9778">
-  <meta property="og:title" content="Beer.js SJC">
-  <meta property="og:description" content="Beer.js SJC é um Meetup para JavaScripters de São José dos Campos e todo o Vale do Paraíba ! Encontros que giram em torno de duas coisas: Cerveja e JavaScript!">
-  <meta property="og:image" content="http://127.0.0.1:9778/themes/yellow-swan/img/badge.jpg">
-  <!-- / FACEBOOK -->
+ {% include statistic.html %}
 
-  <link rel="shortcut icon" href="themes/yellow-swan/img/favicon.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" href="themes/yellow-swan/img/apple-touch-icon.png">
+ {% include latest-news.html %}
 
-  <!-- STYLES -->
-  <link rel="stylesheet" type="text/css" href="themes/yellow-swan/css/main.css">
-  <!-- / STYLES -->
+ {% include rockstar-speakers.html %}
 
-</head>
-<body>
+ {% include location-map.html %}
 
-  <div class="global">
+ {% include venue.html %}
+ 
+ {% include twitter-feed.html %}
 
-    <!-- NAVIGATION -->
-<nav id="nav">
-  <ul class="wrapper">
-    
-      <li class="nav-item">
-        <a href="#about" title="Sobre" class="nav-link">Sobre</a>
-      </li>
-    
-      <li class="nav-item">
-        <a href="#location" title="Local" class="nav-link">Local</a>
-      </li>
-    
-      <li class="nav-item">
-        <a href="#sponsors" title="Patrocínios" class="nav-link">Patrocínios</a>
-      </li>
-    
-      <li class="nav-item">
-        <a href="#partners" title="Parceiros" class="nav-link">Parceiros</a>
-      </li>
-    
-  </ul>
-</nav>
+ {% include partners.html %}
 
-<hr>
-    
-  <a href="https://github.com/hliberato/conf-boilerplate/tree/beerjs-sjc" class="github-link">
-    <img src="https://s3.amazonaws.com/github/ribbons/forkme_right_white_ffffff.png" alt="Fork me on GitHub">
-  </a>
+ {% include subscribe.html %}
 
+ {% include tickets.html %}
 
-<!-- HEADER -->
-<header class="header">
-  <div class="wrapper">
-    <h1 class="logo-name">
-      <a class="logo-link" href="#" title="Beer.js SJC" itemprop="name">Beer.js SJC</a>
-    </h1>
-    <h2 class="tagline">November 15, Cervejaria Devassa, São José dos Campos</h2>
-
-    
-      <div class="call-action-area">
-        
-
-        
-          <a href="http://www.meetup.com/Beer-js-SJC/" class="call-action-link" title="Fique por dentro!">Fique por dentro!</a>
-        
-      </div>
-    
-  </div>
-</header>
-<!--  / HEADER -->
-
-<hr>
-
-    <!-- CONTENT -->
-    <div class="content" id="content">
-      <div class="wrapper">
-        
-  <!-- ABOUT -->
-
-  <section class="about" id="about">
-    <h2 class="section-title">Sobre</h2>
-<p itemprop="description">Beer.js SJC é um Meetup (grupo de encontro) para JavaScripters de São José dos Campos (a galera do Vale do Paraíba e visitantes são bem-vindos!) para se reunir para atividades que giram em torno de duas coisas: Cerveja e JavaScript!.</p>
-
-<p>Você pode mostrar algo que você desenvolveu, falar sobre algo que você gostaria de desenvolver, apresentar "melhores" práticas, ou mudar o mundo.</p>
-
-  </section>
-
-  <!-- / ABOUT -->
-
-  <!-- LOCATION -->
-
-  <section class="location" id="location">
-    <h2 class="section-title">Local</h2>
-
-<p itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-  <span itemprop="streetAddress">Av. São João, 2200. </span>
-  <span itemprop="addressLocality">São José dos Campos</span>,
-  <span itemprop="addressRegion"> São Paulo</span>
-</p>
-
-<div id="map-canvas" class="location-area" data-address="Av. São João, 2200, São José dos Campos - São Paulo"></div>
-
-  </section>
-
-  <!-- / LOCATION -->
-
-  <!-- SPONSORS -->
-
-  <section class="sponsors" id="sponsors">
-    <h2 class="section-title">Patrocínios</h2>
-<ul class="sponsors-list">
-
-
-  <li class="sponsor-item" itemscope itemtype="http://schema.org/Organization">
-    <a href="http://eventick.com.br" class="sponsor-logo sponsor--link" itemprop="url">
-      <img src="themes/yellow-swan/img/sponsor.png" alt="Eventick" class="photo" itemprop="image">
-    </a>
-  </li>
-
-  <li class="sponsor-item">
-    <a class="sponsor-logo sponsor--link sponsor-call" href="#">
-    	<img src="themes/yellow-swan/img/your-logo.jpg" alt="your logo" class="photo">
-    </a>
-  </li>
-</ul>
-  </section>
-
-  <!-- / SPONSORS -->
-
-  <!-- PARTNERS -->
-
-  <section class="partners" id="partners">
-    <h2 class="section-title">Parceiros</h2>
-<ul class="partners-list">
-
-
-  <li class="partner-item" itemscope itemtype="http://schema.org/Organization">
-    <a href="http://braziljs.org" class="partner-logo partner-link" itemprop="url">
-      <img src="themes/yellow-swan/img/partner.png" alt="BrazilJS" class="photo" itemprop="image">
-    </a>
-  </li>
-
-  <li class="partner-item">
-    <a class="partner-logo partner-link partner-call" href="#">
-    	<img src="themes/yellow-swan/img/your-logo.jpg" alt="your logo" class="photo">
-    </a>
-  </li>
-</ul>
-  </section>
-
-  <!-- / PARTNERS -->
-
-        <!-- FOOTER -->
-        <footer class="footer">
-          <p>Made with ♥ by <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> :)</p>
-        </footer>
-        <!-- / FOOTER -->
-      </div>
-    </div>
-    <!-- / CONTENT -->
-
-  </div>
-
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="themes/yellow-swan/js/jquery.js"><\/script>')</script>
-
-  
-  <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-  <script src="themes/yellow-swan/js/main.js"></script>
-  
-
-  <!-- GOOGLE ANALYTICS -->
-  <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', '']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-      })();
-  </script>
-  <!-- /GOOGLE ANALYTICS -->
-
-</body>
-</html>
+ {% include tickets-2.html %}
