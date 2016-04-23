@@ -85,9 +85,9 @@ latestNewsTitle: "Últimas notícias do blog"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 3
+rockstarSpeakersTitle: "Organizadores"
+rockstarSpeakersButtonText: "Ver todos os organizadores"
 
 # Location Block
 locationBlockTitle: "Local"
