@@ -50,9 +50,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 #  - {permalink: "/logistics/", text: "Logistics"}
 #  - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://www.meetup.com/Beer-js-SJC/", text: "Inscreva-se"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://www.meetup.com/Beer-js-SJC/", text: "Inscreva-se"}
+ - {permalink: "/#tickets", text: "Adesivos"}
 
 # Hero Block
 heroImage: "hero.jpg"
