@@ -1,10 +1,29 @@
-- 
-  group: "Main organizer"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+-
+  id: 0
+  name: "Danilo"
+  surname: "Vaz"
+  company: "mLabs"
+  title: "Front-end Developer"
+  thumbnailUrl: DaniloVaz.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/_danilovaz"}
+    - {name: "github", link: "https://github.com/danilovaz"}
+    - {name: "site", link: "http://danilovaz.github.io"}
+-
+  id: 1
+  name: "Henrique"
+  surname: "Liberato"
+  company: "Focusnetworks"
+  title: "Web Developer"
+  thumbnailUrl: HenriqueLiberato.png
+  social:
+    - {name: "github", link: "https://github.com/hliberato"}
+-
+  id: 2
+  name: "Rodrigo"
+  surname: "Agostinho"
+  company: "Company"
+  title: "Web Developer"
+  thumbnailUrl: RodrigoAgostinho.jpg
+  social:
+    - {name: "github", link: "https://github.com/rodrigoagostin"}
