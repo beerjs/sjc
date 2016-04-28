@@ -75,10 +75,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "0", specialCharacter: "+", info: "participantes", detail: "de todos os cantos"}
+ - {count: "0", specialCharacter: "+", info: "horas", detail: "de muito bate-papo, cerveja e JS"}
+ - {count: "0", specialCharacter: "+", info: "litros de cerveja", detail: "porque nem só de café, vive um programador"}
+ - {count: "0", specialCharacter: "", info: "edições", detail: "realizadas com muito amor e cerveja"}
 
 # Latest News Block
 latestNewsTitle: "Últimas notícias do blog"
