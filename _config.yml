@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "BeerJS SJC <typeout>"
-eventDate: "28 de Maio de 2016"
+eventDate: "27 de Maio de 2016"
 typeoutTextValues: '"", "JavaScript", "ES6", "NodeJS", "AngularJS", "React", "Ember.js"'
 typeoutFallback: "JavaScript"
 heroButtons:
