@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "BeerJS SJC <typeout>"
-eventDate: "27 de Maio de 2016"
+eventDate: "28 de Julho de 2016"
 typeoutTextValues: '"", "JavaScript", "ES6", "NodeJS", "AngularJS", "React", "Ember.js"'
 typeoutFallback: "JavaScript"
 heroButtons:
@@ -91,19 +91,19 @@ rockstarSpeakersButtonText: "Ver todos os organizadores"
 
 # Location Block
 locationBlockTitle: "Local"
-eventLocationName: "Boteco 80"
-eventLocationLink: "https://www.facebook.com/boteco80/"
-eventStreetAddress: "R. Gen. Osório, 76 - Vila Ema"
+eventLocationName: "O Turco Gordo"
+eventLocationLink: "https://www.facebook.com/pages/O-Turco-Gordo/250447318303324"
+eventStreetAddress: "Rua Pedro de Toledo, 108 - Vila Adyana, São José dos Campos"
 eventAddressLocality: "São José dos Campos"
 eventAddressLocalityRegion: "São Paulo"
-eventPostalCode: "12243-590"
+eventPostalCode: "12243-750"
 eventAddressCountry: "Brazil"
-eventStartTime: "2016-05-28T17:00"
-eventDoorTime: "17:00"
-eventEndTime: "2016-05-28T02:00"
-eventPlaceCoordinates: "-23.2060718, -45.8968887"
-mapCenterCoordinates: "-23.2060718, -45.8968887"
-mapMobileCenterCoordinates: "-23.2060718, -45.8968887"
+eventStartTime: "2016-07-28T19:30"
+eventDoorTime: "19:30"
+eventEndTime: "2016-07-28T00:00"
+eventPlaceCoordinates: "-23.19934, -45.89334"
+mapCenterCoordinates: "-23.19934, -45.89334"
+mapMobileCenterCoordinates: "-23.19934, -45.89334"
 
 # Venue Block
 venueBlockTitle: "Local"
@@ -111,8 +111,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Boteco 80"
-venueFeatures: ["Bar com amplo espaço", "Temática geek dos anos 80", "Boa localização"]
+venueTitle: "O Turco Gordo"
+venueFeatures: ["Bar com amplo espaço", "Boa localização", "Possibilita conversa entre todos"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
