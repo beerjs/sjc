@@ -29,11 +29,16 @@ http://beerjs.github.io/sjc/
 
 ## Organizadores
 
+- Andresa Boracini ([@DesaSPFC](https://github.com/DesaSPFC))
 - Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
 - Henrique Liberato ([@hliberato](https://github.com/hliberato))
+- Mariana Rondino ([@marondino](https://github.com/marondino))
 - Rodrigo Agostinho ([@rodrigoagostin](https://github.com/rodrigoagostin))
 
-## Futuros encontros Beer.js
+## Encontros Beer.js
+[#01 - 27/05/2016](https://www.meetup.com/Beer-JS-SJC/events/230714621/)
+[#02 - 28/07/2016](https://www.meetup.com/Beer-JS-SJC/events/232388019/)
+[#03 - 27/08/2016](https://www.meetup.com/Beer-JS-SJC/events/233397768/)
 
 
 ## Dúvidas?
