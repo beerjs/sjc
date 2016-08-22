@@ -36,9 +36,9 @@ http://beerjs.github.io/sjc/
 - Rodrigo Agostinho ([@rodrigoagostin](https://github.com/rodrigoagostin))
 
 ## Encontros Beer.js
-[#01 - 27/05/2016](https://www.meetup.com/Beer-JS-SJC/events/230714621/)
-[#02 - 28/07/2016](https://www.meetup.com/Beer-JS-SJC/events/232388019/)
-[#03 - 27/08/2016](https://www.meetup.com/Beer-JS-SJC/events/233397768/)
+- [#01 - 27/05/2016](https://www.meetup.com/Beer-JS-SJC/events/230714621/)
+- [#02 - 28/07/2016](https://www.meetup.com/Beer-JS-SJC/events/232388019/)
+- [#03 - 27/08/2016](https://www.meetup.com/Beer-JS-SJC/events/233397768/)
 
 
 ## Dúvidas?
