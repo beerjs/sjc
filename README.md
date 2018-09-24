@@ -31,6 +31,7 @@ http://beerjs.github.io/sjc/
 
 - Andresa Boracini ([@DesaSPFC](https://github.com/DesaSPFC))
 - Danilo Vaz ([@danilovaz](https://github.com/danilovaz))
+- Felipe Orlando ([@felipeorlando](https://github.com/felipeorlando))
 - Henrique Liberato ([@hliberato](https://github.com/hliberato))
 - Mariana Rondino ([@marondino](https://github.com/marondino))
 - Rodrigo Agostinho ([@rodrigoagostin](https://github.com/rodrigoagostin))
@@ -39,8 +40,11 @@ http://beerjs.github.io/sjc/
 - [#01 - 27/05/2016](https://www.meetup.com/Beer-JS-SJC/events/230714621/)
 - [#02 - 28/07/2016](https://www.meetup.com/Beer-JS-SJC/events/232388019/)
 - [#03 - 27/08/2016](https://www.meetup.com/Beer-JS-SJC/events/233397768/)
+- [#04 - 09/09/2016](https://www.meetup.com/Beer-JS-SJC/events/233887217/)
+- [#05 - 27/10/2016](https://www.meetup.com/Beer-JS-SJC/events/234940500/)
+- [#06 - 18/10/2018](https://www.meetup.com/Beer-JS-SJC/events/254687152/)
 
 
 ## Dúvidas?
 
-Me envie um tweet [aqui](https://twitter.com/BeerJSSJC)
+Nos envie um tweet [aqui](https://twitter.com/BeerJSSJC)
